@@ -1,3 +1,5 @@
+// 2 String's Compare with Common Alpabetical elements.
+
 package commit.comp1011.commit100;
 
 import java.io.*;
